@@ -1,0 +1,39 @@
+[submodule "vim-slim"]
+	path = vim-slim
+	url = https://github.com/slim-template/vim-slim.git
+[submodule "CSScomb-for-Vim"]
+	path = CSScomb-for-Vim
+	url = https://github.com/csscomb/CSScomb-for-Vim.git
+[submodule "genutils"]
+	path = genutils
+	url = https://github.com/vim-scripts/genutils.git
+[submodule "MatchTag"]
+	path = MatchTag
+	url = https://github.com/gregsexton/MatchTag.git
+[submodule "vim-multiple-cursors"]
+	path = vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "tabular"]
+	path = tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "vim-less"]
+	path = vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "vim-rails"]
+	path = vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "vim-rake"]
+	path = vim-rake
+	url = https://github.com/tpope/vim-rake.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "vrackets"]
+	path = vrackets
+	url = https://github.com/vim-scripts/vrackets.git
