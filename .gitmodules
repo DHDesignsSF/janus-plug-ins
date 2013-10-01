@@ -37,3 +37,12 @@
 [submodule "vrackets"]
 	path = vrackets
 	url = https://github.com/vim-scripts/vrackets.git
+[submodule "vim-coffee-script"]
+	path = vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "jquery.vim"]
+	path = jquery.vim
+	url = https://github.com/nono/jquery.vim.git
+[submodule "javascript-libraries-syntax.vim"]
+	path = javascript-libraries-syntax.vim
+	url = https://github.com/othree/javascript-libraries-syntax.vim.git
