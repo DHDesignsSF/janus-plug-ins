@@ -46,3 +46,6 @@
 [submodule "javascript-libraries-syntax.vim"]
 	path = javascript-libraries-syntax.vim
 	url = https://github.com/othree/javascript-libraries-syntax.vim.git
+[submodule "vim-processing"]
+	path = vim-processing
+	url = https://DHDesignsSF@github.com/sophacles/vim-processing.git
