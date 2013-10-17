@@ -49,3 +49,6 @@
 [submodule "vim-processing"]
 	path = vim-processing
 	url = https://DHDesignsSF@github.com/sophacles/vim-processing.git
+[submodule "dash.vim"]
+	path = dash.vim
+	url = https://DHDesignsSF@github.com/rizzatti/dash.vim.git
