@@ -52,3 +52,6 @@
 [submodule "dash.vim"]
 	path = dash.vim
 	url = https://DHDesignsSF@github.com/rizzatti/dash.vim.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe.git
