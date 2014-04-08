@@ -58,3 +58,6 @@
 [submodule "tern_for_vim"]
 	path = tern_for_vim
 	url = git@github.com:marijnh/tern_for_vim.git
+[submodule "html5.vim"]
+	path = html5.vim
+	url = git@github.com:othree/html5.vim.git
