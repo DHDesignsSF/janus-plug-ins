@@ -61,3 +61,6 @@
 [submodule "html5.vim"]
 	path = html5.vim
 	url = git@github.com:othree/html5.vim.git
+[submodule "funcoo.vim"]
+	path = funcoo.vim
+	url = git@github.com:rizzatti/funcoo.vim.git
