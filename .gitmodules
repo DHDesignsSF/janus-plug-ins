@@ -64,6 +64,3 @@
 [submodule "funcoo.vim"]
 	path = funcoo.vim
 	url = git@github.com:rizzatti/funcoo.vim.git
-[submodule "tagbar"]
-	path = tagbar
-	url = git@github.com:majutsushi/tagbar.git
