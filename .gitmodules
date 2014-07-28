@@ -61,3 +61,9 @@
 [submodule "funcoo.vim"]
 	path = funcoo.vim
 	url = git@github.com:rizzatti/funcoo.vim.git
+[submodule "fountain"]
+	path = fountain
+	url = https://github.com/vim-scripts/fountain.vim.git
+[submodule "foundationWIKI"]
+	path = foundationWIKI
+	url = https://github.com/vim-scripts/fountainwiki.vim.git
