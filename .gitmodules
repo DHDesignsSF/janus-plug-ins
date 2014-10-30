@@ -67,3 +67,6 @@
 [submodule "foundationWIKI"]
 	path = foundationWIKI
 	url = https://github.com/vim-scripts/fountainwiki.vim.git
+[submodule "JSX"]
+	path = JSX
+	url = git@github.com:mxw/vim-jsx.git
