@@ -73,3 +73,6 @@
 [submodule "exchange"]
 	path = exchange
 	url = https://DHDesignsSF@github.com/tommcdo/vim-exchange.git
+[submodule "tern_vim"]
+	path = tern_vim
+	url = https://DHDesignsSF@github.com/marijnh/tern_for_vim.git
