@@ -73,3 +73,6 @@
 [submodule "repeat"]
 	path = repeat
 	url = https://DHDesignsSF@github.com/tpope/vim-repeat.git
+[submodule "exchange"]
+	path = exchange
+	url = https://DHDesignsSF@github.com/tommcdo/vim-exchange.git
