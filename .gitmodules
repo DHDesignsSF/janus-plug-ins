@@ -76,3 +76,6 @@
 [submodule "tern_vim"]
 	path = tern_vim
 	url = https://DHDesignsSF@github.com/marijnh/tern_for_vim.git
+[submodule "typescript-syntax"]
+	path = typescript-syntax
+	url = https://DHDesignsSF@github.com/leafgarland/typescript-vim.git
