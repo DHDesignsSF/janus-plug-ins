@@ -79,3 +79,6 @@
 [submodule "YouCompleteMeVim"]
 	path = YouCompleteMeVim
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "elixir"]
+	path = elixir
+	url = https://DHDesignsSF@github.com/elixir-lang/vim-elixir.git
