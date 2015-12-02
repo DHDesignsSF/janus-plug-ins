@@ -1,6 +1,3 @@
-[submodule "vim-slim"]
-	path = vim-slim
-	url = https://github.com/slim-template/vim-slim.git
 [submodule "CSScomb-for-Vim"]
 	path = CSScomb-for-Vim
 	url = https://github.com/csscomb/CSScomb-for-Vim.git
