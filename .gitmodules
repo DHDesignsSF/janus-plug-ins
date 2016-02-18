@@ -73,9 +73,6 @@
 [submodule "typescript-syntax"]
 	path = typescript-syntax
 	url = https://DHDesignsSF@github.com/leafgarland/typescript-vim.git
-[submodule "YouCompleteMeVim"]
-	path = YouCompleteMeVim
-	url = https://github.com/Valloric/YouCompleteMe.git
 [submodule "elixir"]
 	path = elixir
 	url = https://DHDesignsSF@github.com/elixir-lang/vim-elixir.git
